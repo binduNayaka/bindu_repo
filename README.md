@@ -1,4 +1,4 @@
-# bindu_repo
+# bindu_resume design
 My First repository.
 <br>
 Resume design made using HTML and CSS.
