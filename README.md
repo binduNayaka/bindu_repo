@@ -1,4 +1,6 @@
 # bindu_repo
-Repository started to code my designs.
+My First repository.
+<br>
+Resume design made using HTML and CSS.
 <br>
 Author - Bindu Nayak
